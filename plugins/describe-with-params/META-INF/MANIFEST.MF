@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: liuliu.mz
+Build-Jdk: 1.8.0_261
+Extension-Name: describe-with-params
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: describe-with-params
+Implementation-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: describe-with-params
+Long-Name: Describe With Params Plugin
+Url: https://github.com/jenkinsci/describe-with-params-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0
+Hudson-Version: 2.235.1
+Jenkins-Version: 2.235.1
+Plugin-Developers: LiuLiu:Liumazi:71892967@qq.com
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/describe-with-params-plugin
+

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: weiyin
+Build-Jdk: 1.7.0_51
+Extension-Name: appetize
+Specification-Title: Stream iOS & Android builds directly within Jenki
+ ns via Appetize.io's cloud-based iOS Simulators & Android Emulators.
+Implementation-Title: appetize
+Implementation-Version: 1.1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: appetize
+Long-Name: Appetize.io Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Appetize.io+Plugin
+Plugin-Version: 1.1.0
+Hudson-Version: 1.480
+Jenkins-Version: 1.480
+Plugin-Dependencies: credentials:1.21
+Plugin-Developers: Weiyin He:weiyin:weiyin@appetize.io,John Snyder:jcs
+ nyder:john@appetize.io
+

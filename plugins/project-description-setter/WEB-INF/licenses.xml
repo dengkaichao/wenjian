@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='project-description-setter' version='1.2'><l:dependency name='Project Description Setter' groupId='org.jenkins-ci.plugins' artifactId='project-description-setter' version='1.2' url='http://wiki.jenkins-ci.org/display/JENKINS/Project+Description+Setter+Plugin'><l:description>Set the project description from a file in the workspace</l:description><l:license name='The MIT license' url=''/></l:dependency></l:dependencies>

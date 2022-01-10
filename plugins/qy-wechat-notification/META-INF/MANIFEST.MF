@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: dvnuo
+Build-Jdk: 1.8.0_151
+Extension-Name: qy-wechat-notification
+Specification-Title: A build status notifier that sends notifications 
+ to Qy Wechat
+Implementation-Title: qy-wechat-notification
+Implementation-Version: 1.0.2
+Group-Id: org.jenkins-ci.plugins
+Short-Name: qy-wechat-notification
+Long-Name: Qy Wechat Notification Plugin
+Url: https://wiki.jenkins.io/display/JENKINS/Qy+Wechat+Notification+Pl
+ ugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0.2
+Hudson-Version: 2.60.1
+Jenkins-Version: 2.60.1
+Plugin-Dependencies: workflow-job:1.11,structs:1.2
+Plugin-Developers: laijiaju:laijiaju:xiaoj313@gmail.com
+

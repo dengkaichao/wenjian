@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: vimil
+Build-Jdk: 1.8.0_73
+Extension-Name: htmlresource
+Specification-Title: HTML Resource allows you to make js and css libra
+ ries available to jenkins
+Implementation-Title: htmlresource
+Implementation-Version: 1.02
+Plugin-Class: com.cwctravel.jenkinsci.plugins.htmlresource.HTMLResourc
+ ePluginImpl
+Group-Id: org.jenkins-ci.plugins
+Short-Name: htmlresource
+Long-Name: HTMLResource
+Url: http://wiki.jenkins-ci.org/display/JENKINS/HTMLResource+Plugin
+Plugin-Version: 1.02
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Developers: vimil:vimil:-
+

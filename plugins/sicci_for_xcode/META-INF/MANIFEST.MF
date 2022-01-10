@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: bene
+Build-Jdk: 1.6.0_22
+Extension-Name: sicci_for_xcode
+Specification-Title: This plugin integrates support for Xcode projects
+Implementation-Title: sicci_for_xcode
+Implementation-Version: 0.0.8
+Group-Id: org.jvnet.hudson.plugins
+Short-Name: sicci_for_xcode
+Long-Name: SICCI for Xcode Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/SICCI+for+Xcode+Plugin
+Plugin-Version: 0.0.8
+Hudson-Version: null
+Plugin-Developers: Benedikt Biallowons:bene:benedikt@biallowons.de
+
